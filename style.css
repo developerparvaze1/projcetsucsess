@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    border-bottom: 2px solid #ddd;
+    padding: 12px 0;
+}
+.container{
+    width: 90%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.logo a img{
+    width: 100%;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu{
+     width: 40%;
+    float: right;
+    padding: 6px 0;
+}
+.menu ul{
+    
+ list-style: none;
+}
+.menu ul li {
+    display: inline-block; 
+    padding: 0px 10px;
+    font-size: 20px;
+}
+<!--hederend-->
+<!--bannerstart-->
+.banner{}
+.container2{
+    width: 60%;
+    margin: 0 auto;
+}
+.b_content{
+    text-align: center;
+}
+.b_content h1{
+    font-size: 55px;
+    color: red;
+ margin: 6% 15% 2%;
+
+}
+.b_content h1 span{
+    color: navy;
+    
+}
+.b_content p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.b-image{
+    width: 80%;
+    margin: 20px auto 110px;
+
+}
+.b-image img{
+    width: 100%;
+    }
+    <!--bannerend-->
+    <!--scsesstart-->
+.sucses{
+    padding: 50px 0;
+}
+.s_content{
+    overflow: hidden;
+    width: 85%;
+    margin: auto;
+}
+  .content_left{
+      width: 45%;
+      float: left;
+      text-align: right;
+  }
+  .content_left h2{
+      color: red;
+      font-size: 60px;
+  }
+  .content_left p{
+      padding: 10px 0;
+      line-height: 1.8;
+  }
+
+  .content_right{
+      width: 50%;
+      float: right;
+      text-align: left;
+  }
+.content_right h1{
+    font-size: 3rem;
+  }
+    <!--sucsesend-->
